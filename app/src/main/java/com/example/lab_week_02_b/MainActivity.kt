@@ -9,7 +9,7 @@ import com.google.android.material.textfield.TextInputEditText
 
 class MainActivity : AppCompatActivity() {
     companion object {
-        private const val COLOR_KEY = "COLOR_KEY"
+        const val COLOR_KEY = "COLOR_KEY"
     }
 
     private val submitButton: Button
