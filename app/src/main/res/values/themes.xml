@@ -1,9 +1,12 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
+
+    <!-- Base Theme -->
     <style name="Base.Theme.LAB_WEEK_02" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your theme here -->
     </style>
 
-    <style name="Theme.LAB_WEEK_02" parent="Base.Theme.LAB_WEEK_02" />
-    <style name="Theme.LAB_WEEK_02_B" parent="Base.Theme.LAB_WEEK_02" />
+    <!-- Themes -->
+    <style name="Theme.LAB_WEEK_02" parent="Base.Theme.LAB_WEEK_02"/>
+    <style name="Theme.LAB_WEEK_02_B" parent="Base.Theme.LAB_WEEK_02"/>
+
 </resources>
